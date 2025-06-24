@@ -153,10 +153,4 @@ data. With the integration of Knowledge Article Data, businesses can further enh
 service responses and understand customer use cases better. Salesforce Data Cloud offers a
 comprehensive solution for managing and leveraging both structured and unstructured data,
 enabling businesses to deliver deeper insights and enhanced customer experiences.
-Resources
-Help Article: Unstructured Data in Data Cloud
-Help Article: Send File Notifications from External Blob Stores to Data Cloud
-Help Article: Ingest Knowledge Article Data from Salesforce CRM
-Help Article: Chunking Unstructured Data
-Help Article: Manage Search Indexes
-Help Article: Vector Search
+
